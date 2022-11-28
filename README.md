@@ -7,7 +7,7 @@ We've been playing with the world.sqlite database in class a lot. These question
 The database is at /blue/bsc4452/share/Class_Files/data/world.sqlite
 It can also be downloaded from: https://github.com/comptoolsres/Class_Files/raw/main/data/world.sqliteLinks to an external site.
 
-#### Question 1 (5 points):
+### Question 1 (5 points):
 What is the country with the latest year (most recent) of independence?
 
 Provide your answer (2 points) and the code used to get that answer (3 points).
